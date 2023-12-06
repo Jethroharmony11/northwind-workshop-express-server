@@ -691,5 +691,15 @@
         "categoryId": "2",
         "supplier": "Plutzer Lebensmittelgroßmärkte AG",
         "discontinued": "false"
-     }
+     },
+
+{
+   "productId": "78",
+   "productName": "sunflower",
+   "unitPrice": "13.0000",
+   "unitsInStock": "32",
+   "categoryId": "9",
+   "supplier": "Plutzer Lebensmittelgroßmärkte AG",
+   "discontinued": "false"
+}
 ]

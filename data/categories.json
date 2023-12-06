@@ -38,5 +38,10 @@
 		"categoryId" : 8,
 		"description" : "Seaweed and fish",
 		"name" : "Seafood"
+	},
+	{
+		"categoryId" : 9,
+		"description" : "fresh flowers",
+		"name" : "flowers"
 	}
 ]
